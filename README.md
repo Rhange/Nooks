@@ -3,17 +3,17 @@
 - NomadCoders Hooks Course
 - Collection of sexy React Hooks ready to install with NPM(Node Package Manager)
 
-- [ ] useTitle
-- [ ] useInput
+- [x] useInput
+- [x] useTabs
+- [x] useTitle
+- [x] useClick
+- [x] useConfirm
+- [ ] usePreventLeave
 - [ ] usePageLeave
-- [ ] useClick
 - [ ] useFadeIn
 - [ ] useFullscreen
 - [ ] useHover
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
-- [ ] usePreventLeave
-- [ ] useConfirm
 - [ ] useAxios 
